@@ -31,8 +31,6 @@ Python | FastAPI | LangChain | FAISS | Ollama | LLMs | Hugging Face | Docker | P
 ### 3️⃣ LLM API for Real-World Q&A
 - API design and prompt engineering for technical content
 
-### 4️⃣ (Optional) AI-Assisted Geospatial Analysis
-- Combines AI + Geoinformatics for data-driven insights
 
 ---
 
