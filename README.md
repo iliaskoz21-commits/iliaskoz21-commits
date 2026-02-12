@@ -7,7 +7,7 @@ AI Engineer candidate | LLMs & RAG Systems Enthusiast | Former IT Educator
 ## 🔭 Current Focus
 I’m building hands-on projects in:
 - **RAG Systems** with FastAPI, FAISS & Ollama
-- **Autonomous AI Agents** using LangChain & LangGraph
+- **Autonomous AI Agents** using LangChain & LangGraph & Google ADK
 - **LLM-Powered APIs** for real-world tasks
 - Experimenting with **embedding strategies, retrieval pipelines, and prompt engineering**
 
